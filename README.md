@@ -40,3 +40,6 @@ Ensure you have a `.env` file in the root of your project with the necessary env
 ```plaintext
 NEXT_PUBLIC_SUPABASE_URL=https://xjzprzupfcsuqhbsfpei.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key_here
+
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+```
